@@ -20,7 +20,7 @@ O projeto está publicado e pode ser acessado através do link anexado no projet
 ✒️ Autor
 Desenvolvido por Mathias Correa.
 
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github)](https://https://github.com/MathiasGG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mathiascorrêa2006)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=mathiascorrea2006@gmail.com)
 
 Status: Cursando Análise e Desenvolvimento de Sistemas (ADS).
